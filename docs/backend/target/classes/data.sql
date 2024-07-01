@@ -1,0 +1,2 @@
+INSERT INTO PRODUCT (NAME, PRICE, DESCRIPTION, IMAGE_URL) VALUES ('Limpa vidros 650ml', 24.99, '', 'https://images.tcdn.com.br/img/img_prod/911102/limpa_vidros_650ml_9_2_bc34a10515bde4064d5d8cbcec956882.jpg');
+INSERT INTO PRODUCT (NAME, PRICE, DESCRIPTION, IMAGE_URL) VALUES ('Limpa pisos 650ml', 24.99, '', 'https://images.tcdn.com.br/img/img_prod/911102/limpa_pisos_650ml_161_2_7dd03e4dbc2424f3245cb1aa4383fba3.jpg');
